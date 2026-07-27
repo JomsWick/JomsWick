@@ -115,7 +115,7 @@
 ## 🔥 GitHub Streak 
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=JomsWick&theme=tokyonight)
+  <img height="170" src="https://streak-stats.demolab.com?user=JomsWick&theme=tokyonight&hide_border=true&background=161C24" alt="GitHub Streak" />
 </p>
 
 <br />
