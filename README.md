@@ -110,7 +110,7 @@
 ## <img src="./assets/icons/bolt.svg" width="22" alt="" />&nbsp; GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JomsWick&hide_border=true&background=161C24&ring=5EEAD4&fire=2DD4BF&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=8FA3B0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=JomsWick&theme=tokyonight&hide_border=true&background=161C24" alt="GitHub Streak" />
 </p>
 
 <br />
