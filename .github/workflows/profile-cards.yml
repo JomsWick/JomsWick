@@ -1,0 +1,30 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # daily at 02:00 UTC (10:00 PHT)
+  workflow_dispatch: # manual "Run workflow" button
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Create this secret yourself — see setup notes.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8 # Philippines (UTC+8) — makes the productive-time card accurate
+          EXCLUDE: ""
+          AUTO_PUSH: true

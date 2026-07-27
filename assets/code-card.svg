@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 540" width="760" height="540" role="img" aria-label="Code window: const jom = { ... }">
+    <defs>
+        <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#2DD4BF" stop-opacity="0.16"/>
+            <stop offset="55%" stop-color="#0D9488" stop-opacity="0.04"/>
+            <stop offset="100%" stop-color="#0F172A" stop-opacity="0"/>
+        </linearGradient>
+        <filter id="shadow" x="-12%" y="-12%" width="124%" height="124%">
+            <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+        </filter>
+        <style>
+            .mono { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 19px; }
+            .cmt  { fill: #5A6B7C; font-style: italic; }
+            .kw   { fill: #2DD4BF; }
+            .var  { fill: #99F6E4; }
+            .key  { fill: #CBD5E1; }
+            .str  { fill: #7DD3FC; }
+            .pun  { fill: #64748B; }
+            .tab  { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-size: 13px; fill: #4E5B6B; }
+        </style>
+    </defs>
+
+    <!-- window -->
+    <rect x="8" y="8" width="744" height="524" rx="16" fill="#161C24" stroke="#233240" stroke-width="1.5" filter="url(#shadow)"/>
+    <rect x="8" y="8" width="744" height="524" rx="16" fill="url(#glow)"/>
+
+    <!-- title bar -->
+    <path d="M8 24 a16 16 0 0 1 16 -16 h712 a16 16 0 0 1 16 16 v34 h-744 z" fill="#1B242E"/>
+    <line x1="8" y1="58" x2="752" y2="58" stroke="#233240" stroke-width="1.5"/>
+
+    <!-- traffic lights -->
+    <circle cx="34" cy="33" r="7" fill="#FF5F57"/>
+    <circle cx="58" cy="33" r="7" fill="#FEBC2E"/>
+    <circle cx="82" cy="33" r="7" fill="#28C840"/>
+    <text class="tab" x="380" y="38" text-anchor="middle">jom.ts</text>
+
+    <!-- code -->
+    <g class="mono" xml:space="preserve">
+        <text x="34" y="102"><tspan class="cmt">// Full Stack Developer · Davao City, Philippines</tspan></text>
+
+        <text x="34" y="160"><tspan class="kw">const</tspan><tspan class="var"> jom</tspan><tspan class="pun"> = {</tspan></text>
+        <text x="34" y="194"><tspan class="key">  name:     </tspan><tspan class="str">"Jomel A. Ang"</tspan><tspan class="pun">,</tspan></text>
+        <text x="34" y="228"><tspan class="key">  alias:    </tspan><tspan class="str">"Jom"</tspan><tspan class="pun">,</tspan></text>
+        <text x="34" y="262"><tspan class="key">  stack:    </tspan><tspan class="pun">[</tspan><tspan class="str">"React"</tspan><tspan class="pun">, </tspan><tspan class="str">"Next.js"</tspan><tspan class="pun">, </tspan><tspan class="str">"Astro"</tspan><tspan class="pun">],</tspan></text>
+        <text x="34" y="296"><tspan class="key">  mobile:   </tspan><tspan class="pun">[</tspan><tspan class="str">"React Native"</tspan><tspan class="pun">, </tspan><tspan class="str">"Expo"</tspan><tspan class="pun">],</tspan></text>
+        <text x="34" y="330"><tspan class="key">  server:   </tspan><tspan class="pun">[</tspan><tspan class="str">"Node"</tspan><tspan class="pun">, </tspan><tspan class="str">"Express"</tspan><tspan class="pun">, </tspan><tspan class="str">"Laravel"</tspan><tspan class="pun">],</tspan></text>
+        <text x="34" y="364"><tspan class="key">  data:     </tspan><tspan class="pun">[</tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="pun">, </tspan><tspan class="str">"Prisma"</tspan><tspan class="pun">, </tspan><tspan class="str">"Drizzle"</tspan><tspan class="pun">],</tspan></text>
+        <text x="34" y="398"><tspan class="key">  building: </tspan><tspan class="pun">[</tspan><tspan class="str">"HRIS"</tspan><tspan class="pun">, </tspan><tspan class="str">"CRM"</tspan><tspan class="pun">, </tspan><tspan class="str">"POS"</tspan><tspan class="pun">, </tspan><tspan class="str">"HIS"</tspan><tspan class="pun">],</tspan></text>
+        <text x="34" y="432"><tspan class="key">  motto:    </tspan><tspan class="str">"Ship it clean, then make it fast."</tspan><tspan class="pun">,</tspan></text>
+        <text x="34" y="466"><tspan class="pun">};</tspan></text>
+
+        <text x="34" y="506"><tspan class="cmt">// open to freelance &amp; long-term collaboration</tspan></text>
+    </g>
+</svg>
