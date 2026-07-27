@@ -25,23 +25,23 @@
 
 <!-- ══════════════════ ABOUT ══════════════════ -->
 
-## 👋 About Me
+## <img src="./assets/icons/terminal.svg" width="22" alt="" />&nbsp; About Me
 
 <p align="center">
   <img src="./assets/code-card.svg" width="720" alt="const jom = { ... }" />
 </p>
 
-- 🏢 &nbsp;I build **enterprise-grade systems for the Philippine market** — HRIS, CRM, POS, and hospital information systems with role-based access and full API integration.
-- 🧮 &nbsp;Comfortable with the unglamorous parts: **SSS / PhilHealth / Pag-IBIG / TRAIN Law payroll math**, multi-branch inventory, and PhilHealth claim flows.
-- 📱 &nbsp;Web *and* mobile — **React + Vite** on the browser, **React Native + Expo** on the phone, one shared API underneath.
-- 🎨 &nbsp;I take designs seriously. Figma spec in, pixel-faithful build out.
-- 🌐 &nbsp;Portfolio → **[jaang.dev](https://jaang.dev)**
+- <img src="./assets/icons/folder.svg" width="16" alt="" />&nbsp; I build **enterprise-grade systems for the Philippine market** — HRIS, CRM, POS, and hospital information systems with role-based access and full API integration.
+- <img src="./assets/icons/chart.svg" width="16" alt="" />&nbsp; Comfortable with the unglamorous parts: **SSS / PhilHealth / Pag-IBIG / TRAIN Law payroll math**, multi-branch inventory, and PhilHealth claim flows.
+- <img src="./assets/icons/layers.svg" width="16" alt="" />&nbsp; Web *and* mobile — **React + Vite** on the browser, **React Native + Expo** on the phone, one shared API underneath.
+- <img src="./assets/icons/bolt.svg" width="16" alt="" />&nbsp; I take designs seriously. Figma spec in, pixel-faithful build out.
+- <img src="./assets/icons/terminal.svg" width="16" alt="" />&nbsp; Portfolio → **[jaang.dev](https://jaang.dev)**
 
 <br />
 
 <!-- ══════════════════ STACK ══════════════════ -->
 
-## 🧰 Tech Stack
+## <img src="./assets/icons/layers.svg" width="22" alt="" />&nbsp; Tech Stack
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -96,14 +96,9 @@
 
 <br />
 
-<!--
-  ══════════════════ STATS ══════════════════
-  Served by github-stats-extended, a maintained fork of github-readme-stats
-  with its own (less saturated) instance. Same query params as the original.
-  If these ever go blank, the durable fix is self-hosting — see notes below.
--->
+<!-- ══════════════════ STATS ══════════════════ -->
 
-## 📊 GitHub Stats
+## <img src="./assets/icons/chart.svg" width="22" alt="" />&nbsp; GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=JomsWick&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=5EEAD4&icon_color=2DD4BF&text_color=CBD5E1&bg_color=161C24&cache_seconds=86400" alt="GitHub stats" />
@@ -112,22 +107,22 @@
 
 <br />
 
-## 🔥 GitHub Streak 
+## <img src="./assets/icons/bolt.svg" width="22" alt="" />&nbsp; GitHub Streak
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=JomsWick&theme=tokyonight&hide_border=true&background=161C24" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=JomsWick&hide_border=true&background=161C24&ring=5EEAD4&fire=2DD4BF&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=8FA3B0&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <br />
 
 <!-- ══════════════════ PROJECTS ══════════════════ -->
 
-## 🚀 Selected Work
+## <img src="./assets/icons/folder.svg" width="22" alt="" />&nbsp; Selected Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧑‍💼 IHP HRIS</h3>
+      <h3>IHP HRIS</h3>
       <p>Human resource information system for a Philippine corporation — web dashboard plus a companion mobile app, sharing one TypeScript API.</p>
       <p>
         <img src="https://img.shields.io/badge/React-161C24?style=flat-square&logo=react&logoColor=5EEAD4" />
@@ -137,7 +132,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📇 mycrm</h3>
+      <h3>mycrm</h3>
       <p>Personal CRM layered onto my portfolio — clients, projects, payments, analytics, plus a read-only guest mode and role-scoped contact logins.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-161C24?style=flat-square&logo=next.js&logoColor=white" />
@@ -149,7 +144,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 GTC Imaging</h3>
+      <h3>GTC Imaging</h3>
       <p>Hospital information system frontend with real-time updates, telemedicine video, and PhilHealth integration.</p>
       <p>
         <img src="https://img.shields.io/badge/React-161C24?style=flat-square&logo=react&logoColor=5EEAD4" />
@@ -158,7 +153,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Marketing Sites</h3>
+      <h3>Marketing Sites</h3>
       <p>Fast, design-faithful static sites built from Figma specs — restaurant, medical, and industrial clients.</p>
       <p>
         <img src="https://img.shields.io/badge/Astro-161C24?style=flat-square&logo=astro&logoColor=5EEAD4" />
@@ -177,7 +172,7 @@
   This section stays blank until that workflow has run at least once.
 -->
 
-## 🐍 Contribution Snake
+## <img src="./assets/icons/activity.svg" width="22" alt="" />&nbsp; Contribution Graph
 
 <p align="center">
   <picture>
@@ -191,7 +186,7 @@
 
 <!-- ══════════════════ CONTACT ══════════════════ -->
 
-## 🤝 Let's Build Something
+## <img src="./assets/icons/mail.svg" width="22" alt="" />&nbsp; Let's Build Something
 
 <p align="center">
   Open to freelance projects, product work, and long-term collaborations.<br />
